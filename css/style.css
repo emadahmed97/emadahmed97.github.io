@@ -21,7 +21,7 @@ body {
 body {
 	font-size: 15px;
 	line-height: 1.50;
-	color: #333333;
+	color: #55acee;
 	background-color: #ffffff;
 	position: relative;
 }
@@ -159,6 +159,11 @@ blockquote {
 }
 .section {
 	background-color: #ffffff;
+	padding: 80px 0;
+}
+
+.section2 {
+	background-color: #4286f4;
 	padding: 80px 0;
 }
 
