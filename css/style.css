@@ -147,7 +147,7 @@ blockquote {
 }
 .banner-caption {
 	position: absolute;
-	top: 40%;
+	top: 15%;
 	width: 100%;
 	z-index: 2;
 }
@@ -165,6 +165,11 @@ blockquote {
 .section2 {
 	background-color: #4286f4;
 	padding: 80px 0;
+}
+
+.thumbnail {
+	height: 200px;
+	width: 200px;
 }
 
 /* Backgrounds
@@ -476,7 +481,7 @@ textarea {
 .main-navigation .navbar-default .navbar-nav > li > a {
 	color: #fff;
 	padding: 10px 20px;
-	font-size: 18px;
+	font-size: 28px;
 	font-weight: 300;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
